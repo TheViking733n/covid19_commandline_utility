@@ -36,7 +36,7 @@ python covid.py -d gorakh -s up
 
 
 ## Demonstration Clip
-![Covid19-command-line-tool-with-district.gif](https://s10.gifyu.com/images/Covid19-command-line-tool-with-district.gif)
+![Covid19-command-line-tool-with-district.gif](https://media.giphy.com/media/UaR6nA3i8oHtaNEkXq/giphy.gif)
 
 ## Credits
 Without the API provided in [covid-19-data](https://github.com/nytimes/covid-19-data), this tool wouldn't be possible.
