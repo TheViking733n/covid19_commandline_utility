@@ -1,4 +1,6 @@
 # Covid19 Commandline Utility
+![screenshot-1](https://github.com/TheViking733n/covid19_commandline_utility/assets/69471106/2deae1fa-4c50-4691-b10a-6602526a6404)
+
 This is a command line utility that fetches the data from the covid19india.org API and prints the covid cases data for Indian states and districts
 
 ## Dependencies
@@ -29,6 +31,9 @@ python covid.py -d gorakh -s up
 - If state and district names both are passed then it will search for the district name in the given state.
 - If only district name is passed, then it will search for the district name in whole country.
 
+## Screenshots
+![screenshot-2](https://github.com/TheViking733n/covid19_commandline_utility/assets/69471106/ea11d393-fa72-4838-a4ca-325ba79238d4)
+![screenshot-3](https://github.com/TheViking733n/covid19_commandline_utility/assets/69471106/8f193855-1a87-4082-8021-d2e27073a360)
 
 
 ## Note
